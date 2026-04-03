@@ -9,6 +9,8 @@ Through data visualization and analysis, three major trends emerged:
 
 • The Age Factor: Children had the highest survival rates across all age groups, while seniors had the lowest.
 
+**Note on Statistical Certainty:** The black error bars (Confidence Intervals) indicate the reliability of the survival average for each group. The "Children" and "Senior" groups have much wider error gaps, indicating smaller sample sizes for those ages. In contrast, the "Young Adult" and "Adult" groups have very tight error bars, showing high statistical confidence due to the larger volume of passengers in those categories.
+
 • Social Stratification: Passenger class was a massive gatekeeper. Survival odds improved dramatically as passenger class increased (1st Class vs. 3rd Class). This is likely due to a combination of socio-economic priority and physical proximity to the boat deck, providing easier access to lifeboats compared to lower decks.
 
 # 🛠️ Technical Stack
