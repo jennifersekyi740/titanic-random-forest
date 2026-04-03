@@ -21,8 +21,10 @@ I compared two different classification algorithms to predict survival:
 1.	Logistic Regression: Achieved 79.33% accuracy.
 2.	Random Forest Classifier: Achieved 82.12% accuracy.
 Conclusion: The Random Forest model performed best, likely due to its ability to capture non-linear relationships between complex features like Age, Fare, and Class. According to the feature importance plot, Sex was the primary driver of the model's predictions, followed by Fare and Pclass.
-
+![Feature Importance](Top_5_important_features.png)
 ## 📁 How to Run
 1.	Clone this repository.
 2.	Ensure you have scikit-learn, pandas, and seaborn installed.
-3.	Open Initial_Analysis_and_model_comparison.ipynb in Jupyter or Google Colab to see the full analysis.
+3.	Open initial_analysis_and_model_comparison.ipynb in Jupyter or Google Colab to see the full analysis.
+## View Interactive Notebook
+[view interative notebook](https://www.kaggle.com/code/jennifersekyi/initial-analysis-and-model-comparison)
